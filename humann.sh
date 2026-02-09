@@ -1,3 +1,4 @@
+#metaphlan was installed in a mamba environment called mpa4 previously and is called here when humann is run
 ml Mamba
 
 mamba create -p ~/envs/mpa5 -y python=3.10
